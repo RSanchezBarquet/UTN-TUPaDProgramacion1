@@ -1,0 +1,4 @@
+Libro,1200.0,4
+Lapicera,500.0,15
+Marcador,1000.0,20
+goma,50.0,5
